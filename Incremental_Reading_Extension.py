@@ -167,7 +167,7 @@ class IRead2(object):
         model = col.models.byName(IREAD_MODEL_NAME)
         new_note = notes.Note(col, model)
         new_note.tags = cur_note.tags
-        #setField(new_note, TITLE_FIELD_NAME, getField(cur_note, TITLE_FIELD_NAME))
+        setField(new_note, TITLE_FIELD_NAME, getField(cur_note, TITLE_FIELD_NAME))
         setField(new_note, TEXT_FIELD_NAME, mimeData.html())
         setField(new_note, SOURCE_FIELD_NAME, getField(cur_note, SOURCE_FIELD_NAME))
         self.editCurrent = editcurrent.EditCurrent(mw)

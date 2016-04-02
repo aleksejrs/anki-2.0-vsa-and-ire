@@ -485,7 +485,12 @@ class ViewManager():
             cur_note = card.note()
             tags = cur_note.stringTags();
             new_note.setTagsFromStr(tags); #sets tags for the note, but still have to set them in the editor if show dialog (see below)
-                
+
+            SOURCE_FIELD_NAME = 'Source'
+            TITLE_FIELD_NAME = 'Title'
+            self.setField(new_note, SOURCE_FIELD_NAME, self.getField(cur_note, SOURCE_FIELD_NAME))
+            self.setField(new_note, TITLE_FIELD_NAME, self.getField(cur_note, TITLE_FIELD_NAME))
+
             #This is very specific to IRead2 Model and should be generalized or moved elsewhere
             IREAD_MODEL_NAME = 'IRead2'
             TEXT_FIELD_NAME = 'Text'
