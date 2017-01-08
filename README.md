@@ -92,6 +92,10 @@ backups.
 
 ## Changelog
 
+* 2016-01-08:
+
+     Copy Source and Title fields when extracting (thanks to Grawer).
+
 * 2014-04-21:
 
      Commented "import pyqtconfig" out, as it is unused. That's needed for compatibility with Qt5.
