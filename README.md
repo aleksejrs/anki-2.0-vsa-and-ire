@@ -56,7 +56,9 @@ directory in your Anki profile by prepending “_” as follows:
 Please see the html file saved from Google Groups for the original
 manual (find a link to the source code — I mean my copy of the source
 code — near the top of here if you are not reading this file as a part
-of the source code).
+of the source code; if you don't know how to download it, click the green
+"Clone or download" button, download the ZIP file and open the "doc" directory
+in it.
 
 
 Suggestions on use of IRE that I haven't found in the
