@@ -92,7 +92,7 @@ backups.
 
 ## Changelog
 
-* 2016-01-08:
+* 2017-01-08:
 
      Copy Source and Title fields when extracting (thanks to Grawer).
 
