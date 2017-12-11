@@ -91,9 +91,9 @@ Aleksej is not developing this addon.  Also do not expect this page
 and source code repository to stay up for arbitrary time; make local
 backups.
 
-luoliyan is developing a newer version:
-* Version 4: [AnkiWeb](https://ankiweb.net/shared/info/1152164089), [GitHub](https://github.com/luoliyan/incremental-reading-for-anki), [issue tracker](https://github.com/luoliyan/incremental-reading-for-anki/issues), [discussion thread](https://anki.tenderapp.com/discussions/add-ons/9054-incremental-reading-add-on-discussion-support)
-* Version 3: [AnkiWeb](https://ankiweb.net/shared/info/1081195335), [GitHub](https://github.com/luoliyan/incremental-reading-for-anki/tree/legacy), [discussion thread](https://anki.tenderapp.com/discussions/add-ons/9054-incremental-reading-add-on-discussion-support)
+luoliyan is developing a newer version: [Incremental Reading (v3 and v4) at AnkiWeb](https://ankiweb.net/shared/info/1152164089)
+* Version 4: [GitHub](https://github.com/luoliyan/incremental-reading-for-anki), [issue tracker](https://github.com/luoliyan/incremental-reading-for-anki/issues), [discussion thread](https://anki.tenderapp.com/discussions/add-ons/9054-incremental-reading-add-on-discussion-support)
+* Version 3: [GitHub](https://github.com/luoliyan/incremental-reading-for-anki/tree/legacy), [discussion thread](https://anki.tenderapp.com/discussions/add-ons/9054-incremental-reading-add-on-discussion-support)
 
 ## Changelog
 
