@@ -30,7 +30,7 @@ Barroso.” in [the message that was here](https://groups.google.com/d/msg/anki-
 addons/xibqDVFqQwQ/-qpxKvxurPMJ).
 
 Consider my changes to these 2 add-ons multi-licensed under the
-same ISC license, GNU LGPL v3+, GNU GPL v3+ and GNU AGPL v3+.
+same ISC license, GNU LGPL v3+, GNU GPL v3+ and GNU AGPL v3+ *(it may be that it may only be distributed under the GNU AGPL)*.
 
 The licensing does not apply to the Google Groups page just because
 I copied it here.
